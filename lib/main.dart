@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       title: 'june challenge',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        primarySwatch: Colors.green,
       ),
       home: SignupScreen(),
       routes: {
